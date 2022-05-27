@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T10:55:01.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="vjAJw1tR6oE3CBMfmTPV" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T12:50:12.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="rp-ME_KibCtPGidVocqL" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1298" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,19 +62,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-11" value="Stage-2&lt;br&gt;Build the Project" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-13" target="k4UAY15TrJow6UOpBrtI-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-13" value="Stage-3&lt;br&gt;Build Dockerfile to create Docker Image" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-27" target="k4UAY15TrJow6UOpBrtI-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-27" value="Stage-4&lt;br&gt;Run Test Cases" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="756" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-29" target="k4UAY15TrJow6UOpBrtI-31">
           <mxGeometry relative="1" as="geometry" />
@@ -93,19 +93,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-29" value="is success?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="820" width="100" height="90" as="geometry" />
+          <mxGeometry x="370" y="585" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="k4UAY15TrJow6UOpBrtI-31" value="Change to Code&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="835" width="120" height="60" as="geometry" />
+        <mxCell id="k4UAY15TrJow6UOpBrtI-31" value="Change to Code&amp;nbsp;&lt;br&gt;Re-Run Process" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-34" target="k4UAY15TrJow6UOpBrtI-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-34" value="Stage-5&lt;br&gt;Deploy Container to DockHub with specific port" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="943" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="720" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-37" value="Stage-6&lt;br&gt;Run Docker Container on EC2 Machine" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
