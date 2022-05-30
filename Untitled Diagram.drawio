@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T03:14:23.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="RHYttOWoQX6SbDIUzigm" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T03:16:39.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="rbos6lVhu7QfKkm9adCj" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1298" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,28 +6,28 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="224" y="208" as="sourcePoint" />
+            <mxPoint x="224" y="217" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-6" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="k4UAY15TrJow6UOpBrtI-5">
           <mxGeometry y="-20" relative="1" as="geometry">
-            <mxPoint x="225" y="337" as="sourcePoint" />
-            <mxPoint x="224" y="381" as="targetPoint" />
+            <mxPoint x="225" y="346" as="sourcePoint" />
+            <mxPoint x="224" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="224" y="337" />
+              <mxPoint x="224" y="346" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Update Linux and Install JENKINS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="164" y="163" width="120" height="40" as="geometry" />
+          <mxGeometry x="164" y="172" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="k4UAY15TrJow6UOpBrtI-5" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="284" y="398" as="targetPoint" />
+            <mxPoint x="284" y="407" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="384" y="398" />
+              <mxPoint x="384" y="407" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -37,46 +37,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Is required Plugin Installed" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="174" y="258" width="100" height="80" as="geometry" />
+          <mxGeometry x="174" y="267" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Install the required Plugins on JENKINS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="324" y="278" width="130" height="40" as="geometry" />
+          <mxGeometry x="324" y="287" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Create&lt;br&gt;JENKINS Job" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="164" y="468" width="120" height="40" as="geometry" />
+          <mxGeometry x="164" y="477" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="k4UAY15TrJow6UOpBrtI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Stage -1&amp;nbsp;&lt;br&gt;Fetch Repository from Git" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="164" y="558" width="120" height="60" as="geometry" />
+          <mxGeometry x="164" y="567" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-5" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-5" value="Install Docker" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="164" y="378" width="120" height="40" as="geometry" />
+          <mxGeometry x="164" y="387" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-11" target="k4UAY15TrJow6UOpBrtI-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-11" value="Stage-2&lt;br&gt;Build the Project" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="558" width="120" height="60" as="geometry" />
+          <mxGeometry x="364" y="567" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-13" target="k4UAY15TrJow6UOpBrtI-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-13" value="Stage-3&lt;br&gt;Build Dockerfile to create Docker Image" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="564" y="558" width="120" height="60" as="geometry" />
+          <mxGeometry x="564" y="567" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-27" target="k4UAY15TrJow6UOpBrtI-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-27" value="Stage-4&lt;br&gt;Run Test Cases" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="564" y="698" width="120" height="40" as="geometry" />
+          <mxGeometry x="564" y="707" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-29" target="k4UAY15TrJow6UOpBrtI-31">
           <mxGeometry relative="1" as="geometry" />
@@ -95,28 +95,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-29" value="is success?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="374" y="673" width="100" height="90" as="geometry" />
+          <mxGeometry x="374" y="682" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-31" value="Change to Code&amp;nbsp;&lt;br&gt;Re-Run Process" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="164" y="688" width="120" height="60" as="geometry" />
+          <mxGeometry x="164" y="697" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-34" target="k4UAY15TrJow6UOpBrtI-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-34" value="Stage-5&lt;br&gt;Deploy Container to DockHub with specific port" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="830" width="130" height="60" as="geometry" />
+          <mxGeometry x="359" y="839" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=22;fontColor=#666666;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k4UAY15TrJow6UOpBrtI-37" target="k4UAY15TrJow6UOpBrtI-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-37" value="Stage-6&lt;br&gt;Run Docker Container on EC2 Machine" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="364" y="939" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-41" value="&lt;b style=&quot;font-size: 36px&quot;&gt;Be-Safe&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 22px&quot; color=&quot;#666666&quot;&gt;PG DO - DevOps Capstone Project - 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="195" y="60" width="390" height="40" as="geometry" />
+          <mxGeometry x="195" y="83" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k4UAY15TrJow6UOpBrtI-42" value="Stage-7&lt;br&gt;Remove Docker Stack" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="364" y="1049" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4UAY15TrJow6UOpBrtI-44" value="" style="endArrow=none;html=1;rounded=0;shadow=0;fontSize=22;fontColor=#666666;endSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="163" y="64" as="sourcePoint" />
+            <mxPoint x="613" y="63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4UAY15TrJow6UOpBrtI-45" value="Algorithm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="359" y="34" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
